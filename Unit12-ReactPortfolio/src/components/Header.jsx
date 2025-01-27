@@ -1,9 +1,15 @@
 import '../styles/Header.css';
+import Navigation from './Navigation';
 
 function Header() {
 
     return (
-        <h1>Jose Cabrera</h1>
+        <header className="header">
+         <h1>Jose Cabrera</h1>
+         <nav>
+          <Navigation />
+         </nav>
+        </header>
     );
 
 }//function Header
