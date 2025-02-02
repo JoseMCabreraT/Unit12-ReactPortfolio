@@ -11,10 +11,11 @@ function App() {
   return (
     <div className="react-portfolio">
       <Header />
-      <Outlet />
+      <Project />
       <Footer />
+      <Outlet />
     </div>
   );
 }
 
-export default App
+export default App;
