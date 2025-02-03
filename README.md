@@ -5,7 +5,7 @@
 I built my own React portfolio app, where any potential employer looking for candidates can see all the projects and React skills that I have. The application was created
 because I want to showcase all my projects. The user is able to see the header, main page, and a footer section. The header has my full name, and a navigation bar, which contains four different sections: About Me, Contact, Portfiolio, and Resume. When the user clicks on any of these sections, the app will automatically redirects the user to the selected component. I've improved my programming skills, because I have more knowledge of React and how it works with different components. Also, I can add style to my website, so it has a polished User Interface. It's important to say that I have more experience working with the Git version control, since I've done many commits in my project, as well as pushing my code up to my GitHub repository.
 
-Deployed application url: 
+Deployed application url: https://josecabrerareactportfolio.netlify.app/
 
 ## Table of Contents
 
