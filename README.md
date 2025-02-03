@@ -17,7 +17,7 @@ Deployed application url:
 
 The website has three main sections: Header, Main Page, and Footer.
 
-![alt text]()
+![alt text](/src/assets/images/Screenshot.png)
 
 ![alt text]()
 
