@@ -2,9 +2,12 @@
 
 
 function Portfolio() {
-
-
-
-}//function Portfoilio
+    return (
+      <section id="portfolio">
+        <h2>Portfolio</h2>
+        {/* Your projects here */}
+      </section>
+    );
+  }
 
 export default Portfolio;

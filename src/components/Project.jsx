@@ -1,21 +1,10 @@
-import { useState } from 'react';
-import Portfolio from '../pages/Portfolio';
-import About from '../pages/About';
-import Contact from '../pages/Contact';
-import Resume from '../pages/Resume';
-
-
-function Project() {
-
-return (
-    <div className="mainsection">
-        <About />
-        <Portfolio />
-        <Contact />
-        <Resume />
-    </div>
-);
-
-}//function Project
-
-export default Project;
+function About() {
+    return (
+      <section id="about">
+        <h2>About Me</h2>
+        <p>I'm Jose Cabrera, a full-stack developer passionate about building modern web applications...</p>
+      </section>
+    );
+  }
+  
+  export default About;
